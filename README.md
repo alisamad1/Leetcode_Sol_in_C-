@@ -57,7 +57,7 @@ git clone https://github.com/alisamad1/Leetcode_Sol_in_C-.git
 
 ## 🤝 Connect with Me
 
-- 🔗 [LinkedIn – Ali Us Samad](https://www.linkedin.com/in/ali-us-samad/)
+- 🔗 [LinkedIn – Ali Us Samad](https://www.linkedin.com/in/ali-samad-841b11301/)
 - 📧 Email: aliussamad@gmail.com
 
 ---
