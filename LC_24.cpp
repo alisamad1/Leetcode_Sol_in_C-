@@ -1,4 +1,4 @@
-// dismiss gemini code assist
+
 // we will be writing the code for swapping nodes in pairs in a linked list
 #include<iostream>
 using namespace std;
