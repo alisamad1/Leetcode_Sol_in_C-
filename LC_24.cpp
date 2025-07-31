@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6df54c26f65c8cc21fa0b929e4f04512d541c7a9
 // we will be writing the code for swapping nodes in pairs in a linked list
 #include<iostream>
 using namespace std;
