@@ -1,3 +1,4 @@
+// we will be writing the code for two sum (Leetcode #1)
 vector<int> twoSum(vector<int>& nums, int target) {
     int n = nums.size();
     unordered_map<int,int> hashmap;
