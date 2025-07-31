@@ -1,3 +1,4 @@
+// we will be writing the code for Remove All Adjacent Duplicates in String (Leetcode #1047)
 string removeDuplicates(string s) {
     string ans = "";
     int i = 0;
