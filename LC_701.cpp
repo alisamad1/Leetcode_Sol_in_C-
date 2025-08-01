@@ -1,4 +1,4 @@
-TreeNode* insertIntoBST(TreeNode* root, int val) {
+ TreeNode* insertIntoBST(TreeNode* root, int val) {
     if(root==NULL){
         root = new TreeNode(val);
         return root;
