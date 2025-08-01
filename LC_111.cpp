@@ -1,3 +1,4 @@
+// we will be writing the code for Minimum Depth of Binary Tree (Leetcode #111)
 int minDepth(TreeNode* root) {
     if(root == NULL){
         return 0;
