@@ -1,3 +1,4 @@
+// we will be writing code for Buy Two Choclates (Leetcode #2706)  
 int buyChoco(vector<int>& prices, int money) {
     int minPrice = INT_MAX;
     int secMinPrice = INT_MAX;
