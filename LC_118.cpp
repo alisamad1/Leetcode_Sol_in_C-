@@ -1,3 +1,4 @@
+// we will be writing code for Pascal's Triangle (Leetcode #118)
 vector<vector<int>> generate(int numRows) {
     vector<vector<int>>ans;
     vector<int> curr, prev;
