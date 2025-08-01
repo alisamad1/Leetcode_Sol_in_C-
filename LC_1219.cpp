@@ -1,3 +1,4 @@
+// we will be writing the code for Path with maximum Gold (Leetcode #1219)
 int recursion(int i , int j, vector<vector<int> >&grid){
     if(i<0 || j<0 || i == grid.size() || j == grid[0].size() || grid[i][j] == 0){
         return 0;
